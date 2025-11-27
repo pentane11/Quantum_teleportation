@@ -2,10 +2,15 @@
 
 動作環境 (Requirements)
 本プロジェクトは以下のライブラリを使用しています。
+
 Python 3.x
+
 qiskit >= 1.0.0
+
 qiskit-aer
+
 qiskit-ibm-runtime
+
 matplotlib
 
 ファイル構成 (Files)
