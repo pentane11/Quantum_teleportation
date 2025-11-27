@@ -1,6 +1,8 @@
 本リポジトリでは、量子テレポーテーション実験(シミュレーション・実機実装)に使用したソースコードを格納する。
 
+
 動作環境 (Requirements)
+
 本プロジェクトは以下のライブラリを使用しています。
 
 Python 3.x
@@ -12,6 +14,8 @@ qiskit-aer
 qiskit-ibm-runtime
 
 matplotlib
+
+
 
 ファイル構成 (Files)
 1. Quantum_teleportation_simulation.py
